@@ -1,0 +1,20 @@
+1- what is react, what are its features and what you need to start learn it
+2- how to install react and create first application
+      -> install node.js
+      -> npx create-react-app session-1
+      -> cd session-1
+      -> npm start 
+3- what is npm(node package manager) and how does it work
+      -> npm --help
+      -> mkdir my-project
+      -> npm init
+      -> npm install package_name
+      -> npm install package_name package_name2
+      -> npm install / npm i
+      -> npm uninstall package_name
+4- package.json file
+5- browse react project files
+6- what is the difference between html elements and jsx
+7- Babel.js (compiler)
+8- create component
+8- export, export default and import
