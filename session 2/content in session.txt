@@ -1,0 +1,6 @@
+1- what are components and props and how are they built
+2- what is the importance of props and how to use it
+3- composing components
+4- what is state and lifeCycle => stateful, stateless, lifeCycle-diagram
+5- state handlling in function components (hook) useState
+6- class function
