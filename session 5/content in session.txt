@@ -1,0 +1,8 @@
+1- install bootstrap
+    - cdn links
+    - `npm i bootstrap@version`
+    - react-bootstrap
+2- create nav, slider and cards from bootstrap
+3- create fetch api from fakestoreapi and show data in cards
+4- install react router `npm i react-router-dom` and create routing to all products
+5- add categories in home page 
