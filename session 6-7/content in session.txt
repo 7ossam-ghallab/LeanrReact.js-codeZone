@@ -1,0 +1,16 @@
+1- install json-server `npm i json-server`
+    -> json-server --watch --port 9000 db.json 
+2- install bootstrap `npm i bootstrap` and create nav
+3- install react-router-dom `npm i react-router-dom`
+4- create table to show all data
+5- create page to present all data for product
+6- fetch options
+7- install sweet alert `npm i sweetalert2` && `npm i --save sweetalert2 sweetalert2-react-content`
+8- delete and add products from table
+9- install axios
+10- useNavigate in react-router
+
+== task Edit and Categories
+
+11- headers in fetch api
+12- outlet in react-router-dom
